@@ -8,3 +8,4 @@ lets see what pasting the Azure code line into this does
 git remote add origin https://doh539@dev.azure.com/doh539/Github%20to%20Azure/_git/Github%20to%20Azure
 git push -u origin --all
 13:55 lets see what happens now
+Adding line from Visual Studio code for another test
